@@ -2,8 +2,6 @@
 
 This project demonstrates product analysis and AI product thinking using data-driven insights.
 
----
-
 ## 📌 Problem Statement  
 A significant number of users add products to their cart but do not complete the purchase.
 
